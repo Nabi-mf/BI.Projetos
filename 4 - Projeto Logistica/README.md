@@ -1,4 +1,4 @@
-# 📊 Mini Projeto - Reestruturação de Dashboard Logístico (Power BI)
+# 📊 Reestruturação de Dashboard Logístico (Power BI)
 
 ## 🎯 Objetivo
 
