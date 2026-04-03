@@ -1,0 +1,11 @@
+Id_Projeto,Descrição,Orçamento,Data Aprovação,Data Conclusão,Data Última Atualização,Status,Gerente Projeto,Equipe
+PROJ-001,Expansão de Armazém,2218845.87,02/01/2020,31/12/2024,21/01/2022,Finalizado,Carlos Silva,Equipe Alpha
+PROJ-002,Modernização de Frota,3780184.81,02/01/2020,31/12/2024,02/08/2022,Em andamento,Ana Pereira,Equipe Beta
+PROJ-003,Automação de Processos,1733425.96,02/01/2020,31/12/2024,22/01/2023,Finalizado,Roberto Souza,Equipe Gamma
+PROJ-004,Implementação de ERP,1191832.27,01/01/2020,30/12/2024,28/04/2020,Em andamento,Mariana Lima,Equipe Delta
+PROJ-005,Otimização de Rotas,319025.82,02/01/2020,31/12/2024,31/10/2023,Finalizado,João Fernandes,Equipe Epsilon
+PROJ-006,Construção de Centro de Distribuição,4157179.21,02/01/2020,31/12/2024,12/02/2020,Finalizado,Renata Alves,Equipe Zeta
+PROJ-007,Upgrade de Sistemas,2978826.91,02/01/2020,31/12/2024,04/04/2024,Finalizado,Fernando Costa,Equipe Eta
+PROJ-008,Treinamento de Equipe,2593783.56,01/01/2020,30/12/2024,21/06/2020,Em andamento,Patrícia Ribeiro,Equipe Theta
+PROJ-009,Instalação de Equipamentos,753337.9,02/01/2020,31/12/2024,14/09/2020,Finalizado,José Santos,Equipe Iota
+PROJ-010,Melhoria de Infraestrutura,1840651.99,02/01/2020,31/12/2024,28/02/2020,Em andamento,Luciana Martins,Equipe Kappa
