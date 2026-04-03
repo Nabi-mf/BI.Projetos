@@ -206,6 +206,147 @@ Com esse modelo, é possível construir as seguintes análises:
 
 ---
 
+## ❓ Perguntas de Negócio Respondidas pelo Dashboard
+
+O dashboard foi projetado para responder perguntas concretas do dia a dia da gestão de projetos. Abaixo estão as principais, organizadas por tema, com a lógica de onde cada resposta vive no modelo.
+
+---
+
+### 💰 Controle Orçamentário
+
+**1. Quais projetos estão acima do orçamento aprovado?**
+
+> Com base nos dados, **3 projetos já ultrapassaram o orçamento total**:
+> - **Otimização de Rotas** — gastou 412% do orçamento (R$ 1,31M realizado vs R$ 319K aprovado)
+> - **Instalação de Equipamentos** — 167% do orçamento consumido
+> - **Implementação de ERP** — 110% do orçamento, ainda em andamento
+>
+> _Fonte: comparação entre `dProjeto[Orçamento]` e `SUM(fCustos[Valor])` agrupado por projeto._
+
+---
+
+**2. Qual o percentual do orçamento já consumido por projeto?**
+
+> O dashboard permite visualizar o índice de consumo orçamentário (%) para cada projeto. Exemplos reais:
+> - Otimização de Rotas: **412%** ⚠️
+> - Instalação de Equipamentos: **167%** ⚠️
+> - Automação de Processos: **73%** ✅
+> - Construção de Centro de Distribuição: **33%** ✅
+>
+> _Calculado via medida DAX: `DIVIDE([Custo Realizado], [Orçamento Total])`_
+
+---
+
+**3. Qual o saldo restante de orçamento para os projetos em andamento?**
+
+> Os 4 projetos ainda em andamento somam **R$ 9,4M de orçamento aprovado** e **R$ 5,2M já realizados**, deixando um saldo estimado de R$ 4,2M. Porém, o PROJ-004 (Implementação de ERP) já extrapolou e não tem mais saldo.
+>
+> _Fonte: `dProjeto[Status] = "Em andamento"` + cálculo de variação._
+
+---
+
+### 📆 Análise Temporal
+
+**4. Como evoluíram os custos mês a mês ao longo dos anos?**
+
+> O gráfico de linha mensal cruza `fCustos` com `dCalendario`, permitindo ver picos de gasto, sazonalidade e tendências. O período coberto vai de **janeiro/2020 a dezembro/2024**.
+>
+> _Habilitado pelo relacionamento `fCustos[Data]` → `dCalendario[Date]`._
+
+---
+
+**5. O orçamento planejado para o mês foi suficiente para cobrir os custos realizados?**
+
+> Ao filtrar um mês específico no slicer, o dashboard compara o valor orçado (`fOrcamento`) com o custo lançado (`fCustos`) naquele período. Meses onde o realizado supera o planejado ficam visualmente destacados.
+>
+> _Obs: o orçamento distribuído cobre 2022–2023, enquanto os custos vão de 2020 a 2024 — meses fora desse intervalo aparecerão com orçamento em branco._
+
+---
+
+**6. Qual trimestre concentrou mais gastos no portfólio?**
+
+> A coluna `Trimestre` da `dCalendario` (T1, T2, T3, T4) permite agrupar os custos e identificar em qual período do ano o consumo financeiro é mais intenso.
+
+---
+
+### 🏗️ Performance por Projeto
+
+**7. Quais projetos finalizados entregaram dentro do orçamento?**
+
+> Filtrando `Status = "Finalizado"`, apenas **2 dos 6 projetos concluídos** encerraram dentro do orçamento aprovado (Expansão de Armazém e Upgrade de Sistemas, com 57% e 46% de consumo respectivamente). Os demais ou ficaram abaixo por larga margem ou ultrapassaram.
+
+---
+
+**8. Qual projeto tem o maior custo realizado absoluto?**
+
+> **Upgrade de Sistemas (PROJ-007)** lidera com **R$ 1.381.600,71** em custos realizados, seguido de perto por Modernização de Frota (PROJ-002) com R$ 1.379.355,71.
+
+---
+
+### 👤 Performance por Gerente e Equipe
+
+**9. Qual gerente de projeto acumulou o maior volume de custos sob sua responsabilidade?**
+
+> **Fernando Costa** (Upgrade de Sistemas) lidera com R$ 1,38M realizados. Por outro lado, **João Fernandes** (Otimização de Rotas) gerou o maior estouro proporcional ao orçamento, gastando 4x o valor aprovado.
+>
+> _Filtro: `dProjeto[Gerente Projeto]` como dimensão de corte nos visuais._
+
+---
+
+**10. Existe diferença de eficiência financeira entre as equipes?**
+
+> Cada projeto tem uma equipe dedicada (Alpha a Kappa). O dashboard permite comparar custo realizado vs. orçamento por equipe, revelando quais times operam dentro do planejado e quais sistematicamente ultrapassam.
+
+---
+
+### 🔧 Análise de Custos por Tipo e Fornecedor
+
+**11. O portfólio gasta mais com Serviços ou com Materiais?**
+
+> O total de custos está quase equilibrado entre as duas categorias:
+> - **Serviços:** R$ 6.929.937,66 (53%)
+> - **Materiais:** R$ 6.161.201,27 (47%)
+>
+> _Filtro por `fCustos[Classificação]`._
+
+---
+
+**12. Quais fornecedores concentram a maior fatia dos gastos?**
+
+> O top 5 de fornecedores por valor total é:
+> 1. Fornecedor JKL — R$ 835.903,26
+> 2. Fornecedor FGH — R$ 818.288,58
+> 3. Fornecedor KLM — R$ 817.309,37
+> 4. Fornecedor CDE — R$ 782.148,84
+> 5. Fornecedor XYZ — R$ 753.884,20
+>
+> _Com 20 fornecedores cadastrados, esse ranking ajuda a identificar dependências e riscos de concentração._
+
+---
+
+**13. Quais tipos de item geram mais custo dentro de cada projeto?**
+
+> A coluna `Descricao do Item` em `fCustos` permite detalhar, dentro de cada projeto, se os maiores gastos vêm de itens como "Serviços de Terceirização", "Compra de Equipamentos" ou "Treinamento de Funcionários".
+
+---
+
+### 🚦 Visão Executiva (KPIs de Topo)
+
+**14. Qual o total investido no portfólio até o momento?**
+
+> **R$ 13.091.138,93** em custos realizados, sobre um orçamento total aprovado de **R$ 21.567.088,30** — representando **60,7% do portfólio consumido** considerando todos os projetos.
+
+---
+
+**15. Quantos projetos estão finalizados e quantos ainda estão em andamento?**
+
+> - ✅ **Finalizados:** 6 projetos
+> - 🔄 **Em andamento:** 4 projetos
+>
+> _Cartões de KPI na tela inicial do dashboard mostram essa divisão instantaneamente._
+
+---
+
 ## 🛠️ Tecnologias
 
 - **Power BI Desktop** — modelagem, DAX e visualizações
