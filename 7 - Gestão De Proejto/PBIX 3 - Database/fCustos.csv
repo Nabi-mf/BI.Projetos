@@ -1,0 +1,601 @@
+Data,Valor,Descricao do Item,Id_Projeto,Classificação,Fornecedor
+02/01/2020,18030.15,Serviços de Terceirização,PROJ-001,Serviço,Fornecedor 123
+21/02/2020,25645.86,Aquisição de Software,PROJ-001,Serviço,Fornecedor PQR
+05/03/2020,20498.95,Serviços de Transporte,PROJ-001,Material,Fornecedor ZAB
+13/04/2020,30491.51,Serviços de Auditoria,PROJ-001,Serviço,Fornecedor YZA
+17/05/2020,12245.88,Serviços de Segurança,PROJ-001,Material,Fornecedor VWX
+23/06/2020,21692.66,Serviços de Segurança,PROJ-001,Material,Fornecedor 123
+08/07/2020,8521.89,Serviços de Marketing,PROJ-001,Serviço,Fornecedor HIJ
+10/08/2020,23151.96,Serviços Jurídicos,PROJ-001,Material,Fornecedor JKL
+16/09/2020,25926.35,Compra de Móveis,PROJ-001,Serviço,Fornecedor ZAB
+22/10/2020,11069.13,Compra de Equipamentos de Segurança,PROJ-001,Serviço,Fornecedor CDE
+04/11/2020,13119.0,Compra de Ferramentas,PROJ-001,Serviço,Fornecedor NOP
+07/12/2020,28826.54,Treinamento de Funcionários,PROJ-001,Material,Fornecedor FGH
+12/01/2021,27776.38,Compra de Veículos,PROJ-001,Serviço,Fornecedor STU
+16/02/2021,23851.5,Serviços de Limpeza,PROJ-001,Material,Fornecedor FGH
+06/03/2021,18386.58,Compra de Materiais de Construção,PROJ-001,Serviço,Fornecedor QRS
+11/04/2021,13274.09,Serviços de Terceirização,PROJ-001,Material,Fornecedor ABC
+09/05/2021,17398.96,Locação de Equipamentos,PROJ-001,Serviço,Fornecedor XYZ
+12/06/2021,20530.52,Serviços de Marketing,PROJ-001,Serviço,Fornecedor PQR
+05/07/2021,42484.45,Serviços de Consultoria,PROJ-001,Material,Fornecedor VWX
+11/08/2021,8535.32,Serviços de Auditoria,PROJ-001,Material,Fornecedor VWX
+27/09/2021,13267.42,Aquisição de Software,PROJ-001,Serviço,Fornecedor BCD
+15/10/2021,42869.13,Serviços de Auditoria,PROJ-001,Serviço,Fornecedor ZAB
+21/11/2021,28691.74,Locação de Equipamentos,PROJ-001,Serviço,Fornecedor XYZ
+02/12/2021,8141.55,Compra de Materiais de Construção,PROJ-001,Material,Fornecedor STU
+06/01/2022,8527.61,Serviços de Segurança,PROJ-001,Serviço,Fornecedor BCD
+15/02/2022,18793.49,Serviços de Engenharia,PROJ-001,Material,Fornecedor CDE
+20/03/2022,17689.9,Serviços de Limpeza,PROJ-001,Material,Fornecedor MNO
+11/04/2022,10580.81,Serviços de TI,PROJ-001,Serviço,Fornecedor STU
+27/05/2022,7988.63,Serviços de Engenharia,PROJ-001,Material,Fornecedor 123
+21/06/2022,35515.14,Serviços de Auditoria,PROJ-001,Serviço,Fornecedor FGH
+08/07/2022,25715.21,Serviços de Limpeza,PROJ-001,Serviço,Fornecedor CDE
+24/08/2022,21409.1,Serviços de Transporte,PROJ-001,Serviço,Fornecedor VWX
+16/09/2022,11126.91,Compra de Equipamentos de Segurança,PROJ-001,Serviço,Fornecedor STU
+22/10/2022,19326.08,Serviços de TI,PROJ-001,Material,Fornecedor JKL
+16/11/2022,8434.23,Serviços de Segurança,PROJ-001,Material,Fornecedor MNO
+16/12/2022,18075.92,Serviços de Auditoria,PROJ-001,Serviço,Fornecedor CDE
+11/01/2023,24363.06,Serviços de Engenharia,PROJ-001,Material,Fornecedor ZAB
+04/02/2023,16707.08,Serviços de Limpeza,PROJ-001,Material,Fornecedor KLM
+15/03/2023,26246.03,Compra de Veículos,PROJ-001,Serviço,Fornecedor MNO
+14/04/2023,37004.1,Compra de Equipamentos de Segurança,PROJ-001,Material,Fornecedor ABC
+12/05/2023,11134.16,Compra de Equipamentos de Segurança,PROJ-001,Material,Fornecedor BCD
+17/06/2023,18347.16,Compra de Veículos,PROJ-001,Serviço,Fornecedor NOP
+15/07/2023,21253.09,Serviços Jurídicos,PROJ-001,Serviço,Fornecedor BCD
+01/08/2023,30135.37,Manutenção de Equipamentos,PROJ-001,Material,Fornecedor 123
+20/09/2023,12832.29,Compra de Equipamentos de Segurança,PROJ-001,Serviço,Fornecedor PQR
+03/10/2023,18270.2,Manutenção de Equipamentos,PROJ-001,Material,Fornecedor XYZ
+12/11/2023,24862.58,Compra de Ferramentas,PROJ-001,Serviço,Fornecedor ZAB
+15/12/2023,14141.96,Serviços de Limpeza,PROJ-001,Material,Fornecedor WXY
+14/01/2024,19877.92,Treinamento de Funcionários,PROJ-001,Material,Fornecedor NOP
+09/02/2024,34380.47,Treinamento de Funcionários,PROJ-001,Material,Fornecedor HIJ
+19/03/2024,16282.53,Desenvolvimento de Sistemas,PROJ-001,Material,Fornecedor VWX
+15/04/2024,28301.05,Serviços de Terceirização,PROJ-001,Serviço,Fornecedor WXY
+23/05/2024,36601.87,Aquisição de Software,PROJ-001,Material,Fornecedor HIJ
+04/06/2024,25275.51,Aquisição de Software,PROJ-001,Material,Fornecedor HIJ
+14/07/2024,21427.27,Serviços de Terceirização,PROJ-001,Material,Fornecedor YZA
+05/08/2024,22677.05,Compra de Equipamentos de Segurança,PROJ-001,Material,Fornecedor VWX
+10/09/2024,20430.06,Serviços de Limpeza,PROJ-001,Serviço,Fornecedor JKL
+05/10/2024,39516.94,Locação de Equipamentos,PROJ-001,Serviço,Fornecedor TUV
+21/11/2024,17329.13,Compra de Ferramentas,PROJ-001,Material,Fornecedor PQR
+02/12/2024,22341.35,Compra de Móveis,PROJ-001,Material,Fornecedor HIJ
+10/01/2020,31564.27,Serviços de Limpeza,PROJ-002,Serviço,Fornecedor 123
+25/02/2020,36932.84,Serviços Jurídicos,PROJ-002,Material,Fornecedor JKL
+01/03/2020,27581.46,Serviços de TI,PROJ-002,Serviço,Fornecedor NOP
+16/04/2020,57117.75,Desenvolvimento de Sistemas,PROJ-002,Serviço,Fornecedor YZA
+10/05/2020,24796.59,Serviços de Terceirização,PROJ-002,Material,Fornecedor FGH
+15/06/2020,10264.24,Serviços de Terceirização,PROJ-002,Serviço,Fornecedor HIJ
+23/07/2020,13174.36,Serviços de Terceirização,PROJ-002,Serviço,Fornecedor EFG
+11/08/2020,16459.16,Treinamento de Funcionários,PROJ-002,Serviço,Fornecedor NOP
+08/09/2020,18909.98,Locação de Equipamentos,PROJ-002,Material,Fornecedor KLM
+13/10/2020,12398.19,Compra de Equipamentos de Segurança,PROJ-002,Serviço,Fornecedor FGH
+14/11/2020,13271.06,Serviços de Marketing,PROJ-002,Serviço,Fornecedor TUV
+15/12/2020,47571.2,Serviços de Segurança,PROJ-002,Material,Fornecedor QRS
+07/01/2021,32872.71,Aquisição de Software,PROJ-002,Serviço,Fornecedor XYZ
+06/02/2021,12299.56,Compra de Veículos,PROJ-002,Serviço,Fornecedor FGH
+01/03/2021,33670.44,Compra de Equipamentos de Segurança,PROJ-002,Material,Fornecedor WXY
+28/04/2021,8135.33,Locação de Equipamentos,PROJ-002,Serviço,Fornecedor XYZ
+01/05/2021,25005.7,Serviços de Auditoria,PROJ-002,Material,Fornecedor MNO
+28/06/2021,38235.89,Serviços de Limpeza,PROJ-002,Material,Fornecedor MNO
+17/07/2021,23766.55,Manutenção de Equipamentos,PROJ-002,Material,Fornecedor JKL
+24/08/2021,19676.31,Serviços de Consultoria,PROJ-002,Serviço,Fornecedor EFG
+16/09/2021,14974.69,Serviços de Auditoria,PROJ-002,Serviço,Fornecedor XYZ
+25/10/2021,9076.37,Serviços de Engenharia,PROJ-002,Serviço,Fornecedor 123
+04/11/2021,19174.94,Serviços de Limpeza,PROJ-002,Material,Fornecedor STU
+16/12/2021,25121.45,Serviços Jurídicos,PROJ-002,Material,Fornecedor TUV
+19/01/2022,15239.05,Compra de Móveis,PROJ-002,Material,Fornecedor STU
+10/02/2022,35491.56,Locação de Equipamentos,PROJ-002,Serviço,Fornecedor CDE
+11/03/2022,15070.63,Serviços de Limpeza,PROJ-002,Serviço,Fornecedor BCD
+23/04/2022,10901.07,Serviços Jurídicos,PROJ-002,Material,Fornecedor NOP
+24/05/2022,29066.72,Aquisição de Software,PROJ-002,Serviço,Fornecedor EFG
+23/06/2022,19804.12,Serviços de TI,PROJ-002,Material,Fornecedor MNO
+02/07/2022,25256.13,Desenvolvimento de Sistemas,PROJ-002,Material,Fornecedor FGH
+11/08/2022,29777.8,Serviços de TI,PROJ-002,Serviço,Fornecedor FGH
+24/09/2022,26833.44,Compra de Equipamentos de Segurança,PROJ-002,Material,Fornecedor STU
+28/10/2022,32053.94,Aquisição de Software,PROJ-002,Material,Fornecedor NOP
+01/11/2022,17579.65,Aquisição de Software,PROJ-002,Material,Fornecedor STU
+11/12/2022,18008.04,Serviços de Auditoria,PROJ-002,Serviço,Fornecedor PQR
+26/01/2023,12885.67,Serviços de Limpeza,PROJ-002,Serviço,Fornecedor KLM
+12/02/2023,35944.4,Aquisição de Software,PROJ-002,Serviço,Fornecedor NOP
+11/03/2023,41659.79,Serviços de Consultoria,PROJ-002,Serviço,Fornecedor STU
+20/04/2023,27709.25,Serviços de Engenharia,PROJ-002,Serviço,Fornecedor FGH
+03/05/2023,14747.68,Treinamento de Funcionários,PROJ-002,Serviço,Fornecedor FGH
+18/06/2023,25124.68,Serviços de Terceirização,PROJ-002,Serviço,Fornecedor HIJ
+17/07/2023,7892.25,Compra de Veículos,PROJ-002,Serviço,Fornecedor NOP
+25/08/2023,6656.27,Desenvolvimento de Sistemas,PROJ-002,Material,Fornecedor STU
+01/09/2023,30077.38,Serviços de Consultoria,PROJ-002,Serviço,Fornecedor KLM
+08/10/2023,41659.87,Desenvolvimento de Sistemas,PROJ-002,Material,Fornecedor WXY
+08/11/2023,15313.16,Serviços Jurídicos,PROJ-002,Serviço,Fornecedor EFG
+21/12/2023,22082.14,Compra de Ferramentas,PROJ-002,Material,Fornecedor XYZ
+01/01/2024,18219.24,Serviços de Auditoria,PROJ-002,Serviço,Fornecedor KLM
+16/02/2024,41980.89,Locação de Equipamentos,PROJ-002,Serviço,Fornecedor QRS
+03/03/2024,13856.89,Manutenção de Equipamentos,PROJ-002,Serviço,Fornecedor HIJ
+23/04/2024,13913.61,Desenvolvimento de Sistemas,PROJ-002,Serviço,Fornecedor EFG
+25/05/2024,33247.45,Desenvolvimento de Sistemas,PROJ-002,Material,Fornecedor EFG
+20/06/2024,21449.15,Serviços de Terceirização,PROJ-002,Serviço,Fornecedor VWX
+16/07/2024,13310.11,Compra de Ferramentas,PROJ-002,Serviço,Fornecedor CDE
+28/08/2024,27339.86,Treinamento de Funcionários,PROJ-002,Material,Fornecedor WXY
+10/09/2024,19036.79,Treinamento de Funcionários,PROJ-002,Material,Fornecedor ABC
+09/10/2024,9362.37,Serviços de Consultoria,PROJ-002,Serviço,Fornecedor EFG
+22/11/2024,8885.32,Serviços de Auditoria,PROJ-002,Material,Fornecedor FGH
+16/12/2024,29868.3,Compra de Veículos,PROJ-002,Serviço,Fornecedor XYZ
+14/01/2020,12936.36,Desenvolvimento de Sistemas,PROJ-003,Serviço,Fornecedor MNO
+26/02/2020,29023.57,Locação de Equipamentos,PROJ-003,Material,Fornecedor NOP
+09/03/2020,12974.91,Serviços de Auditoria,PROJ-003,Material,Fornecedor NOP
+18/04/2020,45249.93,Serviços de Marketing,PROJ-003,Material,Fornecedor KLM
+23/05/2020,17678.91,Locação de Equipamentos,PROJ-003,Serviço,Fornecedor HIJ
+04/06/2020,22055.79,Compra de Equipamentos de Segurança,PROJ-003,Material,Fornecedor KLM
+17/07/2020,12599.94,Serviços de Auditoria,PROJ-003,Material,Fornecedor CDE
+19/08/2020,9421.48,Serviços de Marketing,PROJ-003,Material,Fornecedor ABC
+04/09/2020,29346.58,Aquisição de Software,PROJ-003,Serviço,Fornecedor HIJ
+02/10/2020,6758.58,Aquisição de Software,PROJ-003,Serviço,Fornecedor BCD
+02/11/2020,19608.96,Compra de Veículos,PROJ-003,Material,Fornecedor 123
+07/12/2020,33942.34,Compra de Veículos,PROJ-003,Serviço,Fornecedor CDE
+25/01/2021,23188.18,Locação de Equipamentos,PROJ-003,Serviço,Fornecedor VWX
+13/02/2021,8784.46,Locação de Equipamentos,PROJ-003,Material,Fornecedor KLM
+06/03/2021,11125.26,Aquisição de Software,PROJ-003,Material,Fornecedor JKL
+06/04/2021,21301.12,Treinamento de Funcionários,PROJ-003,Serviço,Fornecedor VWX
+20/05/2021,32757.01,Serviços de Segurança,PROJ-003,Serviço,Fornecedor YZA
+05/06/2021,13824.01,Serviços de Auditoria,PROJ-003,Material,Fornecedor CDE
+11/07/2021,7926.2,Serviços de Marketing,PROJ-003,Serviço,Fornecedor ABC
+28/08/2021,10987.29,Serviços de Limpeza,PROJ-003,Material,Fornecedor YZA
+22/09/2021,13873.97,Aquisição de Software,PROJ-003,Material,Fornecedor VWX
+18/10/2021,8376.38,Compra de Equipamentos de Segurança,PROJ-003,Material,Fornecedor EFG
+13/11/2021,10614.75,Compra de Materiais de Construção,PROJ-003,Material,Fornecedor TUV
+25/12/2021,36300.45,Serviços de Transporte,PROJ-003,Serviço,Fornecedor XYZ
+02/01/2022,20352.95,Serviços de Segurança,PROJ-003,Material,Fornecedor ZAB
+13/02/2022,11495.92,Serviços de Segurança,PROJ-003,Material,Fornecedor KLM
+27/03/2022,33119.18,Manutenção de Equipamentos,PROJ-003,Serviço,Fornecedor NOP
+11/04/2022,13604.32,Serviços de Marketing,PROJ-003,Material,Fornecedor TUV
+05/05/2022,22623.0,Serviços de TI,PROJ-003,Material,Fornecedor ZAB
+03/06/2022,14732.02,Serviços de Terceirização,PROJ-003,Material,Fornecedor STU
+12/07/2022,36448.55,Manutenção de Equipamentos,PROJ-003,Material,Fornecedor BCD
+15/08/2022,37157.58,Desenvolvimento de Sistemas,PROJ-003,Serviço,Fornecedor PQR
+15/09/2022,13421.19,Manutenção de Equipamentos,PROJ-003,Material,Fornecedor 123
+22/10/2022,17579.13,Serviços Jurídicos,PROJ-003,Material,Fornecedor VWX
+18/11/2022,34054.65,Serviços de Segurança,PROJ-003,Serviço,Fornecedor CDE
+20/12/2022,21886.71,Serviços de Marketing,PROJ-003,Material,Fornecedor ABC
+11/01/2023,8509.79,Desenvolvimento de Sistemas,PROJ-003,Material,Fornecedor JKL
+01/02/2023,18941.28,Serviços Jurídicos,PROJ-003,Serviço,Fornecedor PQR
+08/03/2023,11723.1,Serviços de Limpeza,PROJ-003,Material,Fornecedor WXY
+05/04/2023,34787.69,Compra de Materiais de Construção,PROJ-003,Serviço,Fornecedor YZA
+24/05/2023,7712.16,Serviços de TI,PROJ-003,Serviço,Fornecedor FGH
+19/06/2023,32783.02,Serviços de Auditoria,PROJ-003,Serviço,Fornecedor NOP
+26/07/2023,34632.01,Serviços de Auditoria,PROJ-003,Serviço,Fornecedor JKL
+12/08/2023,27617.33,Manutenção de Equipamentos,PROJ-003,Serviço,Fornecedor MNO
+27/09/2023,18025.93,Serviços Jurídicos,PROJ-003,Serviço,Fornecedor BCD
+05/10/2023,10458.77,Treinamento de Funcionários,PROJ-003,Serviço,Fornecedor EFG
+08/11/2023,27362.97,Serviços de Transporte,PROJ-003,Material,Fornecedor YZA
+02/12/2023,28419.11,Serviços de Transporte,PROJ-003,Material,Fornecedor 123
+05/01/2024,37374.2,Compra de Equipamentos de Segurança,PROJ-003,Material,Fornecedor WXY
+09/02/2024,34824.26,Aquisição de Software,PROJ-003,Serviço,Fornecedor NOP
+28/03/2024,10888.49,Serviços de Segurança,PROJ-003,Material,Fornecedor MNO
+13/04/2024,15342.31,Serviços de TI,PROJ-003,Serviço,Fornecedor NOP
+18/05/2024,21738.04,Serviços de TI,PROJ-003,Material,Fornecedor ZAB
+06/06/2024,32297.24,Compra de Ferramentas,PROJ-003,Material,Fornecedor NOP
+11/07/2024,38938.14,Compra de Materiais de Construção,PROJ-003,Material,Fornecedor YZA
+01/08/2024,18233.6,Serviços de Engenharia,PROJ-003,Serviço,Fornecedor FGH
+21/09/2024,36126.56,Serviços de Marketing,PROJ-003,Material,Fornecedor KLM
+16/10/2024,11863.41,Serviços de Marketing,PROJ-003,Material,Fornecedor STU
+16/11/2024,14188.22,Serviços de Limpeza,PROJ-003,Serviço,Fornecedor STU
+02/12/2024,13089.87,Serviços de Limpeza,PROJ-003,Material,Fornecedor WXY
+18/01/2020,18894.64,Serviços de Transporte,PROJ-004,Material,Fornecedor ZAB
+05/02/2020,28317.68,Locação de Equipamentos,PROJ-004,Serviço,Fornecedor PQR
+14/03/2020,33676.23,Serviços Jurídicos,PROJ-004,Material,Fornecedor MNO
+23/04/2020,30737.78,Aquisição de Software,PROJ-004,Serviço,Fornecedor KLM
+18/05/2020,28508.43,Serviços de Consultoria,PROJ-004,Material,Fornecedor ZAB
+27/06/2020,11336.04,Serviços de Segurança,PROJ-004,Serviço,Fornecedor JKL
+03/07/2020,37727.0,Serviços de Auditoria,PROJ-004,Material,Fornecedor PQR
+28/08/2020,8815.87,Serviços de TI,PROJ-004,Material,Fornecedor WXY
+16/09/2020,11935.17,Serviços de Engenharia,PROJ-004,Serviço,Fornecedor PQR
+03/10/2020,13420.62,Serviços de Limpeza,PROJ-004,Material,Fornecedor QRS
+17/11/2020,8271.01,Serviços Jurídicos,PROJ-004,Serviço,Fornecedor ZAB
+11/12/2020,56027.02,Aquisição de Software,PROJ-004,Serviço,Fornecedor PQR
+23/01/2021,14132.03,Serviços de Consultoria,PROJ-004,Serviço,Fornecedor ZAB
+11/02/2021,17847.12,Treinamento de Funcionários,PROJ-004,Serviço,Fornecedor 123
+16/03/2021,14403.44,Compra de Veículos,PROJ-004,Serviço,Fornecedor JKL
+21/04/2021,20465.97,Compra de Equipamentos de Segurança,PROJ-004,Material,Fornecedor NOP
+15/05/2021,35729.67,Serviços de Auditoria,PROJ-004,Serviço,Fornecedor WXY
+21/06/2021,15986.81,Serviços de TI,PROJ-004,Material,Fornecedor 123
+01/07/2021,27653.61,Serviços de TI,PROJ-004,Serviço,Fornecedor HIJ
+02/08/2021,26686.19,Serviços de Limpeza,PROJ-004,Serviço,Fornecedor CDE
+26/09/2021,25936.63,Serviços de Marketing,PROJ-004,Serviço,Fornecedor CDE
+27/10/2021,34184.31,Serviços de Terceirização,PROJ-004,Serviço,Fornecedor BCD
+21/11/2021,17196.95,Serviços de Transporte,PROJ-004,Serviço,Fornecedor WXY
+15/12/2021,38522.52,Serviços Jurídicos,PROJ-004,Material,Fornecedor WXY
+26/01/2022,21556.19,Serviços de Segurança,PROJ-004,Serviço,Fornecedor JKL
+25/02/2022,18532.88,Serviços de TI,PROJ-004,Serviço,Fornecedor NOP
+01/03/2022,35321.08,Serviços de Limpeza,PROJ-004,Serviço,Fornecedor PQR
+25/04/2022,34306.71,Aquisição de Software,PROJ-004,Serviço,Fornecedor VWX
+11/05/2022,12495.93,Serviços Jurídicos,PROJ-004,Serviço,Fornecedor PQR
+23/06/2022,12913.29,Locação de Equipamentos,PROJ-004,Material,Fornecedor FGH
+22/07/2022,16458.98,Serviços de Marketing,PROJ-004,Serviço,Fornecedor CDE
+18/08/2022,18562.0,Serviços de Transporte,PROJ-004,Material,Fornecedor XYZ
+12/09/2022,19298.77,Serviços de Engenharia,PROJ-004,Serviço,Fornecedor FGH
+04/10/2022,11568.39,Serviços de TI,PROJ-004,Serviço,Fornecedor WXY
+01/11/2022,19072.98,Serviços Jurídicos,PROJ-004,Serviço,Fornecedor WXY
+01/12/2022,13285.32,Compra de Móveis,PROJ-004,Serviço,Fornecedor ZAB
+20/01/2023,10887.99,Compra de Equipamentos de Segurança,PROJ-004,Material,Fornecedor YZA
+12/02/2023,21264.02,Serviços de Transporte,PROJ-004,Material,Fornecedor HIJ
+15/03/2023,14847.3,Serviços de Consultoria,PROJ-004,Material,Fornecedor BCD
+20/04/2023,20945.38,Serviços de Limpeza,PROJ-004,Serviço,Fornecedor BCD
+18/05/2023,28688.0,Compra de Móveis,PROJ-004,Material,Fornecedor EFG
+07/06/2023,34814.61,Compra de Veículos,PROJ-004,Material,Fornecedor TUV
+18/07/2023,9302.97,Serviços de Engenharia,PROJ-004,Material,Fornecedor BCD
+24/08/2023,27942.45,Serviços de Terceirização,PROJ-004,Serviço,Fornecedor JKL
+16/09/2023,29268.01,Serviços de Consultoria,PROJ-004,Material,Fornecedor CDE
+01/10/2023,8852.95,Compra de Móveis,PROJ-004,Material,Fornecedor NOP
+09/11/2023,12334.18,Compra de Equipamentos de Segurança,PROJ-004,Serviço,Fornecedor WXY
+01/12/2023,10344.8,Serviços Jurídicos,PROJ-004,Material,Fornecedor JKL
+06/01/2024,17278.16,Treinamento de Funcionários,PROJ-004,Serviço,Fornecedor JKL
+06/02/2024,25655.85,Serviços de Terceirização,PROJ-004,Material,Fornecedor TUV
+18/03/2024,31743.91,Serviços de Segurança,PROJ-004,Serviço,Fornecedor ZAB
+03/04/2024,19581.24,Serviços de Transporte,PROJ-004,Serviço,Fornecedor NOP
+05/05/2024,11470.12,Serviços de Engenharia,PROJ-004,Material,Fornecedor TUV
+05/06/2024,24954.32,Desenvolvimento de Sistemas,PROJ-004,Serviço,Fornecedor CDE
+19/07/2024,19274.41,Serviços de Limpeza,PROJ-004,Material,Fornecedor XYZ
+05/08/2024,28597.68,Serviços de Transporte,PROJ-004,Serviço,Fornecedor EFG
+09/09/2024,21155.73,Serviços de Engenharia,PROJ-004,Serviço,Fornecedor TUV
+16/10/2024,21323.39,Compra de Ferramentas,PROJ-004,Material,Fornecedor VWX
+11/11/2024,9955.89,Serviços de Terceirização,PROJ-004,Material,Fornecedor EFG
+03/12/2024,34895.84,Serviços de Segurança,PROJ-004,Material,Fornecedor TUV
+18/01/2020,29292.78,Serviços de Segurança,PROJ-005,Serviço,Fornecedor JKL
+19/02/2020,41536.94,Manutenção de Equipamentos,PROJ-005,Material,Fornecedor PQR
+17/03/2020,17954.28,Locação de Equipamentos,PROJ-005,Material,Fornecedor ZAB
+23/04/2020,32212.04,Compra de Materiais de Construção,PROJ-005,Material,Fornecedor KLM
+13/05/2020,6798.12,Serviços de Transporte,PROJ-005,Serviço,Fornecedor WXY
+06/06/2020,12395.02,Serviços de Transporte,PROJ-005,Material,Fornecedor HIJ
+02/07/2020,17681.08,Aquisição de Software,PROJ-005,Serviço,Fornecedor WXY
+24/08/2020,14812.07,Serviços de Consultoria,PROJ-005,Serviço,Fornecedor EFG
+23/09/2020,7724.45,Compra de Veículos,PROJ-005,Material,Fornecedor ZAB
+05/10/2020,36697.33,Serviços de Limpeza,PROJ-005,Serviço,Fornecedor CDE
+10/11/2020,35050.16,Locação de Equipamentos,PROJ-005,Serviço,Fornecedor MNO
+14/12/2020,35909.02,Compra de Ferramentas,PROJ-005,Serviço,Fornecedor PQR
+20/01/2021,19019.82,Compra de Móveis,PROJ-005,Material,Fornecedor CDE
+19/02/2021,23320.19,Serviços de Auditoria,PROJ-005,Serviço,Fornecedor YZA
+02/03/2021,18994.86,Serviços de Transporte,PROJ-005,Serviço,Fornecedor KLM
+07/04/2021,20539.48,Compra de Veículos,PROJ-005,Serviço,Fornecedor HIJ
+15/05/2021,12483.04,Compra de Veículos,PROJ-005,Material,Fornecedor KLM
+14/06/2021,25558.04,Compra de Materiais de Construção,PROJ-005,Material,Fornecedor 123
+12/07/2021,12769.77,Compra de Equipamentos de Segurança,PROJ-005,Serviço,Fornecedor ABC
+18/08/2021,27017.28,Serviços de Transporte,PROJ-005,Material,Fornecedor 123
+02/09/2021,18501.25,Serviços de Engenharia,PROJ-005,Material,Fornecedor TUV
+07/10/2021,10373.83,Serviços de Marketing,PROJ-005,Material,Fornecedor CDE
+25/11/2021,17778.57,Compra de Equipamentos de Segurança,PROJ-005,Material,Fornecedor YZA
+02/12/2021,32413.35,Manutenção de Equipamentos,PROJ-005,Material,Fornecedor MNO
+26/01/2022,29686.0,Compra de Materiais de Construção,PROJ-005,Serviço,Fornecedor KLM
+13/02/2022,20210.94,Serviços de Engenharia,PROJ-005,Material,Fornecedor EFG
+22/03/2022,33794.96,Compra de Veículos,PROJ-005,Serviço,Fornecedor FGH
+08/04/2022,20317.91,Serviços de Auditoria,PROJ-005,Material,Fornecedor WXY
+20/05/2022,32145.48,Serviços de Engenharia,PROJ-005,Serviço,Fornecedor EFG
+22/06/2022,12301.65,Serviços de Limpeza,PROJ-005,Material,Fornecedor VWX
+21/07/2022,15060.72,Locação de Equipamentos,PROJ-005,Serviço,Fornecedor NOP
+17/08/2022,8348.57,Serviços de Marketing,PROJ-005,Material,Fornecedor XYZ
+23/09/2022,12168.71,Serviços de Consultoria,PROJ-005,Material,Fornecedor QRS
+26/10/2022,7434.67,Compra de Equipamentos de Segurança,PROJ-005,Material,Fornecedor PQR
+02/11/2022,20103.71,Serviços de Transporte,PROJ-005,Serviço,Fornecedor QRS
+10/12/2022,29688.7,Compra de Móveis,PROJ-005,Serviço,Fornecedor ABC
+09/01/2023,42735.62,Compra de Veículos,PROJ-005,Material,Fornecedor BCD
+04/02/2023,11732.75,Serviços de Terceirização,PROJ-005,Material,Fornecedor XYZ
+06/03/2023,22709.55,Serviços de Consultoria,PROJ-005,Material,Fornecedor FGH
+03/04/2023,39421.94,Serviços de Terceirização,PROJ-005,Material,Fornecedor JKL
+15/05/2023,30781.16,Serviços de Consultoria,PROJ-005,Serviço,Fornecedor STU
+06/06/2023,26262.1,Serviços de Transporte,PROJ-005,Material,Fornecedor HIJ
+09/07/2023,28303.45,Serviços de Terceirização,PROJ-005,Serviço,Fornecedor FGH
+07/08/2023,13603.46,Serviços de Transporte,PROJ-005,Serviço,Fornecedor NOP
+25/09/2023,21557.68,Serviços Jurídicos,PROJ-005,Serviço,Fornecedor NOP
+08/10/2023,27084.1,Compra de Veículos,PROJ-005,Material,Fornecedor TUV
+02/11/2023,9455.54,Serviços Jurídicos,PROJ-005,Material,Fornecedor ZAB
+13/12/2023,23107.19,Serviços de Terceirização,PROJ-005,Material,Fornecedor KLM
+05/01/2024,18357.01,Compra de Veículos,PROJ-005,Material,Fornecedor HIJ
+15/02/2024,14659.19,Compra de Móveis,PROJ-005,Serviço,Fornecedor MNO
+22/03/2024,16479.97,Serviços de Limpeza,PROJ-005,Material,Fornecedor HIJ
+28/04/2024,16172.51,Serviços de Auditoria,PROJ-005,Serviço,Fornecedor XYZ
+10/05/2024,11049.85,Serviços de Terceirização,PROJ-005,Serviço,Fornecedor YZA
+07/06/2024,39633.67,Compra de Equipamentos de Segurança,PROJ-005,Material,Fornecedor NOP
+07/07/2024,11540.72,Serviços de TI,PROJ-005,Serviço,Fornecedor KLM
+25/08/2024,33942.48,Compra de Veículos,PROJ-005,Serviço,Fornecedor FGH
+14/09/2024,14808.97,Serviços de Auditoria,PROJ-005,Serviço,Fornecedor PQR
+27/10/2024,24345.18,Serviços de Marketing,PROJ-005,Material,Fornecedor BCD
+16/11/2024,19639.55,Compra de Móveis,PROJ-005,Serviço,Fornecedor JKL
+28/12/2024,30495.26,Compra de Ferramentas,PROJ-005,Serviço,Fornecedor XYZ
+24/01/2020,38606.69,Serviços de Transporte,PROJ-006,Serviço,Fornecedor PQR
+09/02/2020,20162.36,Serviços Jurídicos,PROJ-006,Serviço,Fornecedor FGH
+03/03/2020,12819.87,Serviços de Auditoria,PROJ-006,Serviço,Fornecedor JKL
+08/04/2020,31675.75,Compra de Móveis,PROJ-006,Serviço,Fornecedor VWX
+04/05/2020,12775.03,Serviços Jurídicos,PROJ-006,Material,Fornecedor FGH
+24/06/2020,11146.75,Serviços de Transporte,PROJ-006,Serviço,Fornecedor TUV
+08/07/2020,15827.5,Aquisição de Software,PROJ-006,Serviço,Fornecedor XYZ
+20/08/2020,12833.51,Serviços Jurídicos,PROJ-006,Serviço,Fornecedor HIJ
+16/09/2020,25558.28,Serviços Jurídicos,PROJ-006,Serviço,Fornecedor PQR
+07/10/2020,22832.68,Desenvolvimento de Sistemas,PROJ-006,Material,Fornecedor VWX
+08/11/2020,7115.54,Desenvolvimento de Sistemas,PROJ-006,Material,Fornecedor FGH
+18/12/2020,60077.66,Compra de Móveis,PROJ-006,Serviço,Fornecedor FGH
+14/01/2021,24742.11,Serviços de Transporte,PROJ-006,Material,Fornecedor YZA
+18/02/2021,22763.83,Compra de Veículos,PROJ-006,Serviço,Fornecedor STU
+09/03/2021,18160.44,Serviços de Terceirização,PROJ-006,Material,Fornecedor ZAB
+18/04/2021,23207.83,Serviços de TI,PROJ-006,Material,Fornecedor ABC
+24/05/2021,30761.62,Treinamento de Funcionários,PROJ-006,Serviço,Fornecedor KLM
+11/06/2021,40868.09,Compra de Veículos,PROJ-006,Serviço,Fornecedor ABC
+03/07/2021,38921.2,Serviços de Transporte,PROJ-006,Serviço,Fornecedor YZA
+17/08/2021,6591.56,Serviços de Marketing,PROJ-006,Material,Fornecedor HIJ
+24/09/2021,20871.79,Serviços de Terceirização,PROJ-006,Serviço,Fornecedor FGH
+17/10/2021,21266.65,Serviços de Auditoria,PROJ-006,Material,Fornecedor EFG
+12/11/2021,26277.05,Compra de Ferramentas,PROJ-006,Material,Fornecedor KLM
+07/12/2021,12345.94,Compra de Ferramentas,PROJ-006,Material,Fornecedor PQR
+20/01/2022,26835.04,Serviços de Segurança,PROJ-006,Material,Fornecedor STU
+15/02/2022,32364.25,Compra de Ferramentas,PROJ-006,Serviço,Fornecedor JKL
+03/03/2022,16436.7,Serviços de Marketing,PROJ-006,Serviço,Fornecedor MNO
+18/04/2022,21754.27,Serviços Jurídicos,PROJ-006,Material,Fornecedor TUV
+08/05/2022,9041.26,Desenvolvimento de Sistemas,PROJ-006,Material,Fornecedor PQR
+05/06/2022,24627.56,Serviços de Engenharia,PROJ-006,Serviço,Fornecedor NOP
+10/07/2022,15898.16,Serviços de Marketing,PROJ-006,Material,Fornecedor 123
+26/08/2022,20091.08,Serviços de Engenharia,PROJ-006,Serviço,Fornecedor STU
+01/09/2022,25651.82,Treinamento de Funcionários,PROJ-006,Serviço,Fornecedor WXY
+23/10/2022,32419.17,Serviços de Terceirização,PROJ-006,Material,Fornecedor TUV
+25/11/2022,21258.99,Compra de Equipamentos de Segurança,PROJ-006,Material,Fornecedor FGH
+22/12/2022,20767.94,Compra de Móveis,PROJ-006,Material,Fornecedor ZAB
+23/01/2023,10633.62,Serviços de Limpeza,PROJ-006,Material,Fornecedor 123
+22/02/2023,21021.3,Treinamento de Funcionários,PROJ-006,Serviço,Fornecedor QRS
+15/03/2023,23621.71,Serviços de Engenharia,PROJ-006,Serviço,Fornecedor QRS
+24/04/2023,21772.61,Serviços de Limpeza,PROJ-006,Material,Fornecedor ABC
+26/05/2023,15899.09,Serviços de Consultoria,PROJ-006,Material,Fornecedor QRS
+01/06/2023,23969.5,Serviços de Consultoria,PROJ-006,Serviço,Fornecedor 123
+27/07/2023,23295.59,Serviços de Terceirização,PROJ-006,Serviço,Fornecedor KLM
+11/08/2023,28796.32,Serviços Jurídicos,PROJ-006,Serviço,Fornecedor CDE
+03/09/2023,20130.63,Serviços de Transporte,PROJ-006,Serviço,Fornecedor VWX
+01/10/2023,35345.93,Serviços Jurídicos,PROJ-006,Serviço,Fornecedor VWX
+10/11/2023,5822.92,Serviços de Auditoria,PROJ-006,Serviço,Fornecedor YZA
+19/12/2023,36725.66,Desenvolvimento de Sistemas,PROJ-006,Serviço,Fornecedor QRS
+20/01/2024,32406.94,Treinamento de Funcionários,PROJ-006,Material,Fornecedor CDE
+09/02/2024,26584.46,Compra de Móveis,PROJ-006,Serviço,Fornecedor PQR
+07/03/2024,29856.32,Treinamento de Funcionários,PROJ-006,Serviço,Fornecedor QRS
+23/04/2024,8671.35,Compra de Ferramentas,PROJ-006,Material,Fornecedor EFG
+06/05/2024,12106.35,Aquisição de Software,PROJ-006,Material,Fornecedor PQR
+12/06/2024,10946.76,Treinamento de Funcionários,PROJ-006,Serviço,Fornecedor CDE
+16/07/2024,26847.63,Serviços de Transporte,PROJ-006,Serviço,Fornecedor PQR
+11/08/2024,36012.38,Serviços de Auditoria,PROJ-006,Material,Fornecedor QRS
+18/09/2024,33875.06,Serviços de Consultoria,PROJ-006,Serviço,Fornecedor CDE
+07/10/2024,14437.83,Serviços de Marketing,PROJ-006,Serviço,Fornecedor HIJ
+16/11/2024,32543.08,Serviços de Terceirização,PROJ-006,Serviço,Fornecedor KLM
+09/12/2024,15463.25,Compra de Veículos,PROJ-006,Serviço,Fornecedor YZA
+04/01/2020,26485.13,Aquisição de Software,PROJ-007,Material,Fornecedor NOP
+03/02/2020,20890.43,Compra de Móveis,PROJ-007,Serviço,Fornecedor HIJ
+12/03/2020,10213.95,Manutenção de Equipamentos,PROJ-007,Material,Fornecedor TUV
+17/04/2020,31769.66,Serviços de Auditoria,PROJ-007,Material,Fornecedor XYZ
+21/05/2020,30734.62,Compra de Móveis,PROJ-007,Material,Fornecedor KLM
+14/06/2020,8846.79,Compra de Ferramentas,PROJ-007,Material,Fornecedor HIJ
+24/07/2020,15555.46,Serviços de Marketing,PROJ-007,Material,Fornecedor VWX
+05/08/2020,16587.12,Serviços de Terceirização,PROJ-007,Serviço,Fornecedor KLM
+17/09/2020,24408.32,Serviços Jurídicos,PROJ-007,Serviço,Fornecedor QRS
+10/10/2020,38568.7,Compra de Materiais de Construção,PROJ-007,Serviço,Fornecedor EFG
+08/11/2020,32853.66,Serviços de Transporte,PROJ-007,Material,Fornecedor XYZ
+24/12/2020,50038.05,Serviços de Transporte,PROJ-007,Material,Fornecedor ABC
+28/01/2021,7291.19,Serviços de Consultoria,PROJ-007,Material,Fornecedor QRS
+13/02/2021,18556.75,Serviços Jurídicos,PROJ-007,Serviço,Fornecedor ZAB
+13/03/2021,24699.99,Serviços de TI,PROJ-007,Material,Fornecedor JKL
+15/04/2021,23223.47,Serviços de Marketing,PROJ-007,Material,Fornecedor EFG
+02/05/2021,11606.41,Serviços de Consultoria,PROJ-007,Material,Fornecedor BCD
+10/06/2021,32610.36,Compra de Ferramentas,PROJ-007,Serviço,Fornecedor HIJ
+23/07/2021,14276.59,Serviços de Engenharia,PROJ-007,Serviço,Fornecedor YZA
+01/08/2021,17318.82,Serviços de Engenharia,PROJ-007,Serviço,Fornecedor WXY
+22/09/2021,21316.01,Serviços de Transporte,PROJ-007,Material,Fornecedor BCD
+27/10/2021,24997.69,Compra de Equipamentos de Segurança,PROJ-007,Material,Fornecedor 123
+09/11/2021,32849.67,Aquisição de Software,PROJ-007,Serviço,Fornecedor XYZ
+04/12/2021,34806.16,Serviços de TI,PROJ-007,Serviço,Fornecedor FGH
+19/01/2022,29627.87,Compra de Materiais de Construção,PROJ-007,Serviço,Fornecedor WXY
+20/02/2022,15705.95,Serviços de Terceirização,PROJ-007,Material,Fornecedor KLM
+22/03/2022,10558.17,Compra de Ferramentas,PROJ-007,Serviço,Fornecedor 123
+11/04/2022,19141.58,Serviços de Limpeza,PROJ-007,Serviço,Fornecedor CDE
+10/05/2022,25954.07,Desenvolvimento de Sistemas,PROJ-007,Serviço,Fornecedor TUV
+15/06/2022,19585.91,Manutenção de Equipamentos,PROJ-007,Serviço,Fornecedor STU
+19/07/2022,8812.11,Serviços de TI,PROJ-007,Serviço,Fornecedor JKL
+20/08/2022,19501.42,Compra de Materiais de Construção,PROJ-007,Serviço,Fornecedor TUV
+21/09/2022,16220.97,Treinamento de Funcionários,PROJ-007,Material,Fornecedor ABC
+25/10/2022,30798.33,Serviços de TI,PROJ-007,Material,Fornecedor BCD
+28/11/2022,18443.8,Serviços de Consultoria,PROJ-007,Serviço,Fornecedor YZA
+06/12/2022,22172.65,Serviços de Consultoria,PROJ-007,Serviço,Fornecedor FGH
+06/01/2023,22230.69,Serviços de Consultoria,PROJ-007,Serviço,Fornecedor BCD
+07/02/2023,22905.56,Aquisição de Software,PROJ-007,Serviço,Fornecedor WXY
+02/03/2023,12073.34,Serviços de TI,PROJ-007,Material,Fornecedor STU
+24/04/2023,30466.03,Serviços de Terceirização,PROJ-007,Serviço,Fornecedor ZAB
+01/05/2023,24919.72,Serviços de Limpeza,PROJ-007,Serviço,Fornecedor KLM
+21/06/2023,38769.65,Compra de Móveis,PROJ-007,Material,Fornecedor YZA
+20/07/2023,17986.67,Treinamento de Funcionários,PROJ-007,Serviço,Fornecedor JKL
+21/08/2023,20947.43,Serviços de Engenharia,PROJ-007,Material,Fornecedor JKL
+16/09/2023,20904.25,Serviços Jurídicos,PROJ-007,Serviço,Fornecedor VWX
+07/10/2023,12852.4,Serviços de Marketing,PROJ-007,Material,Fornecedor JKL
+15/11/2023,16284.84,Compra de Ferramentas,PROJ-007,Serviço,Fornecedor FGH
+13/12/2023,26656.97,Serviços de Terceirização,PROJ-007,Material,Fornecedor FGH
+02/01/2024,24376.76,Serviços de TI,PROJ-007,Material,Fornecedor EFG
+20/02/2024,29636.25,Serviços Jurídicos,PROJ-007,Serviço,Fornecedor PQR
+01/03/2024,29657.21,Serviços de Segurança,PROJ-007,Serviço,Fornecedor KLM
+20/04/2024,27766.38,Desenvolvimento de Sistemas,PROJ-007,Material,Fornecedor EFG
+21/05/2024,14951.04,Manutenção de Equipamentos,PROJ-007,Material,Fornecedor JKL
+10/06/2024,27263.57,Compra de Veículos,PROJ-007,Material,Fornecedor PQR
+11/07/2024,22559.1,Compra de Veículos,PROJ-007,Material,Fornecedor BCD
+01/08/2024,34353.06,Compra de Materiais de Construção,PROJ-007,Serviço,Fornecedor MNO
+17/09/2024,18210.87,Compra de Ferramentas,PROJ-007,Serviço,Fornecedor VWX
+17/10/2024,14430.31,Serviços de Auditoria,PROJ-007,Serviço,Fornecedor TUV
+24/11/2024,31389.28,Compra de Móveis,PROJ-007,Material,Fornecedor KLM
+07/12/2024,32981.5,Aquisição de Software,PROJ-007,Material,Fornecedor BCD
+09/01/2020,19644.71,Manutenção de Equipamentos,PROJ-008,Serviço,Fornecedor MNO
+22/02/2020,19903.64,Serviços de Engenharia,PROJ-008,Serviço,Fornecedor MNO
+06/03/2020,35712.83,Compra de Móveis,PROJ-008,Material,Fornecedor ZAB
+19/04/2020,31544.52,Manutenção de Equipamentos,PROJ-008,Serviço,Fornecedor KLM
+21/05/2020,18361.13,Serviços de Consultoria,PROJ-008,Serviço,Fornecedor STU
+13/06/2020,18550.11,Serviços de Terceirização,PROJ-008,Material,Fornecedor QRS
+18/07/2020,12737.23,Serviços de Engenharia,PROJ-008,Material,Fornecedor FGH
+26/08/2020,36967.9,Serviços de Consultoria,PROJ-008,Material,Fornecedor KLM
+08/09/2020,35608.96,Serviços de Engenharia,PROJ-008,Serviço,Fornecedor 123
+13/10/2020,28002.53,Serviços Jurídicos,PROJ-008,Serviço,Fornecedor XYZ
+13/11/2020,6659.9,Serviços de Auditoria,PROJ-008,Material,Fornecedor NOP
+15/12/2020,46241.93,Serviços de Transporte,PROJ-008,Material,Fornecedor BCD
+12/01/2021,41419.45,Compra de Ferramentas,PROJ-008,Material,Fornecedor TUV
+14/02/2021,8827.67,Aquisição de Software,PROJ-008,Material,Fornecedor EFG
+22/03/2021,20930.29,Compra de Materiais de Construção,PROJ-008,Serviço,Fornecedor WXY
+05/04/2021,18195.24,Serviços de TI,PROJ-008,Serviço,Fornecedor NOP
+23/05/2021,24040.29,Compra de Materiais de Construção,PROJ-008,Serviço,Fornecedor JKL
+01/06/2021,18108.75,Serviços de Consultoria,PROJ-008,Material,Fornecedor EFG
+20/07/2021,14486.66,Serviços de Auditoria,PROJ-008,Serviço,Fornecedor XYZ
+01/08/2021,12257.54,Aquisição de Software,PROJ-008,Serviço,Fornecedor CDE
+27/09/2021,27123.72,Manutenção de Equipamentos,PROJ-008,Serviço,Fornecedor TUV
+21/10/2021,25085.35,Compra de Equipamentos de Segurança,PROJ-008,Serviço,Fornecedor HIJ
+15/11/2021,10502.17,Serviços de Terceirização,PROJ-008,Serviço,Fornecedor TUV
+26/12/2021,14728.48,Serviços Jurídicos,PROJ-008,Serviço,Fornecedor ZAB
+14/01/2022,33031.34,Compra de Materiais de Construção,PROJ-008,Serviço,Fornecedor FGH
+27/02/2022,39026.53,Treinamento de Funcionários,PROJ-008,Material,Fornecedor XYZ
+21/03/2022,27761.0,Serviços de Transporte,PROJ-008,Serviço,Fornecedor XYZ
+02/04/2022,16330.22,Serviços de Terceirização,PROJ-008,Serviço,Fornecedor BCD
+10/05/2022,14513.43,Serviços de TI,PROJ-008,Serviço,Fornecedor ZAB
+06/06/2022,6076.85,Serviços de Terceirização,PROJ-008,Material,Fornecedor 123
+10/07/2022,15391.67,Serviços Jurídicos,PROJ-008,Material,Fornecedor XYZ
+12/08/2022,33921.37,Treinamento de Funcionários,PROJ-008,Serviço,Fornecedor ZAB
+19/09/2022,9803.55,Serviços de Consultoria,PROJ-008,Serviço,Fornecedor VWX
+20/10/2022,17846.69,Serviços de Terceirização,PROJ-008,Serviço,Fornecedor VWX
+18/11/2022,19143.1,Compra de Materiais de Construção,PROJ-008,Material,Fornecedor XYZ
+17/12/2022,31802.62,Serviços de Auditoria,PROJ-008,Serviço,Fornecedor BCD
+26/01/2023,20836.14,Serviços de Consultoria,PROJ-008,Serviço,Fornecedor STU
+20/02/2023,17318.37,Serviços de Terceirização,PROJ-008,Material,Fornecedor FGH
+10/03/2023,11858.23,Locação de Equipamentos,PROJ-008,Serviço,Fornecedor MNO
+20/04/2023,28648.35,Serviços de Segurança,PROJ-008,Serviço,Fornecedor CDE
+17/05/2023,19559.66,Compra de Veículos,PROJ-008,Material,Fornecedor JKL
+21/06/2023,10942.08,Serviços de Engenharia,PROJ-008,Material,Fornecedor KLM
+12/07/2023,32101.29,Serviços de Transporte,PROJ-008,Serviço,Fornecedor JKL
+08/08/2023,20960.13,Compra de Móveis,PROJ-008,Material,Fornecedor STU
+05/09/2023,13870.75,Aquisição de Software,PROJ-008,Serviço,Fornecedor HIJ
+24/10/2023,21938.61,Compra de Ferramentas,PROJ-008,Material,Fornecedor CDE
+16/11/2023,9075.73,Compra de Ferramentas,PROJ-008,Serviço,Fornecedor ZAB
+20/12/2023,26922.61,Compra de Móveis,PROJ-008,Material,Fornecedor TUV
+02/01/2024,9801.12,Serviços de Transporte,PROJ-008,Serviço,Fornecedor TUV
+20/02/2024,17655.09,Compra de Móveis,PROJ-008,Material,Fornecedor XYZ
+24/03/2024,23579.23,Serviços de Auditoria,PROJ-008,Material,Fornecedor TUV
+24/04/2024,23934.96,Serviços de Terceirização,PROJ-008,Material,Fornecedor KLM
+09/05/2024,33615.13,Desenvolvimento de Sistemas,PROJ-008,Material,Fornecedor ABC
+02/06/2024,22109.7,Serviços de Limpeza,PROJ-008,Material,Fornecedor HIJ
+06/07/2024,9656.93,Serviços Jurídicos,PROJ-008,Serviço,Fornecedor XYZ
+18/08/2024,13930.96,Serviços de Auditoria,PROJ-008,Material,Fornecedor EFG
+04/09/2024,9580.0,Compra de Móveis,PROJ-008,Material,Fornecedor KLM
+24/10/2024,15773.87,Treinamento de Funcionários,PROJ-008,Serviço,Fornecedor HIJ
+01/11/2024,26092.37,Serviços de Segurança,PROJ-008,Serviço,Fornecedor YZA
+23/12/2024,6013.45,Serviços de TI,PROJ-008,Serviço,Fornecedor NOP
+03/01/2020,18685.61,Serviços de Engenharia,PROJ-009,Material,Fornecedor EFG
+13/02/2020,21681.79,Locação de Equipamentos,PROJ-009,Material,Fornecedor JKL
+01/03/2020,17544.98,Serviços de Limpeza,PROJ-009,Serviço,Fornecedor KLM
+16/04/2020,38797.75,Serviços de Limpeza,PROJ-009,Serviço,Fornecedor BCD
+08/05/2020,29406.45,Serviços de TI,PROJ-009,Material,Fornecedor JKL
+11/06/2020,19997.88,Compra de Ferramentas,PROJ-009,Material,Fornecedor CDE
+19/07/2020,28243.53,Compra de Equipamentos de Segurança,PROJ-009,Serviço,Fornecedor VWX
+24/08/2020,28646.25,Serviços de Transporte,PROJ-009,Material,Fornecedor BCD
+26/09/2020,28615.85,Desenvolvimento de Sistemas,PROJ-009,Serviço,Fornecedor STU
+16/10/2020,13445.21,Serviços de Limpeza,PROJ-009,Material,Fornecedor 123
+18/11/2020,8746.84,Compra de Equipamentos de Segurança,PROJ-009,Material,Fornecedor MNO
+25/12/2020,42574.38,Serviços de Consultoria,PROJ-009,Serviço,Fornecedor MNO
+05/01/2021,19478.17,Serviços de Segurança,PROJ-009,Serviço,Fornecedor ABC
+28/02/2021,7581.34,Compra de Móveis,PROJ-009,Material,Fornecedor STU
+21/03/2021,26286.68,Aquisição de Software,PROJ-009,Serviço,Fornecedor PQR
+22/04/2021,13122.69,Serviços de Engenharia,PROJ-009,Serviço,Fornecedor NOP
+02/05/2021,12050.42,Compra de Equipamentos de Segurança,PROJ-009,Serviço,Fornecedor QRS
+01/06/2021,9372.4,Serviços Jurídicos,PROJ-009,Material,Fornecedor ABC
+15/07/2021,26419.97,Compra de Ferramentas,PROJ-009,Serviço,Fornecedor TUV
+11/08/2021,26610.07,Serviços de Consultoria,PROJ-009,Serviço,Fornecedor YZA
+16/09/2021,10300.79,Serviços de Terceirização,PROJ-009,Material,Fornecedor TUV
+17/10/2021,24997.41,Serviços de Transporte,PROJ-009,Serviço,Fornecedor XYZ
+09/11/2021,35698.89,Serviços de Segurança,PROJ-009,Material,Fornecedor ABC
+12/12/2021,18383.78,Aquisição de Software,PROJ-009,Material,Fornecedor QRS
+17/01/2022,8903.95,Compra de Veículos,PROJ-009,Serviço,Fornecedor MNO
+02/02/2022,22490.51,Serviços de Auditoria,PROJ-009,Serviço,Fornecedor 123
+26/03/2022,23933.42,Locação de Equipamentos,PROJ-009,Material,Fornecedor 123
+22/04/2022,20830.46,Compra de Materiais de Construção,PROJ-009,Material,Fornecedor WXY
+24/05/2022,33181.11,Serviços de TI,PROJ-009,Material,Fornecedor 123
+18/06/2022,32487.65,Serviços de Segurança,PROJ-009,Material,Fornecedor XYZ
+10/07/2022,23575.36,Serviços de Consultoria,PROJ-009,Material,Fornecedor 123
+02/08/2022,36656.06,Serviços de Auditoria,PROJ-009,Material,Fornecedor ZAB
+03/09/2022,7714.45,Manutenção de Equipamentos,PROJ-009,Serviço,Fornecedor ABC
+23/10/2022,11197.32,Serviços de Transporte,PROJ-009,Material,Fornecedor EFG
+06/11/2022,10948.98,Serviços de TI,PROJ-009,Material,Fornecedor FGH
+19/12/2022,5938.4,Locação de Equipamentos,PROJ-009,Material,Fornecedor YZA
+15/01/2023,16035.38,Serviços de Terceirização,PROJ-009,Material,Fornecedor XYZ
+04/02/2023,41873.38,Locação de Equipamentos,PROJ-009,Material,Fornecedor JKL
+16/03/2023,18377.06,Compra de Veículos,PROJ-009,Material,Fornecedor WXY
+11/04/2023,25858.97,Serviços de Terceirização,PROJ-009,Material,Fornecedor HIJ
+04/05/2023,10265.03,Compra de Materiais de Construção,PROJ-009,Serviço,Fornecedor WXY
+14/06/2023,26865.32,Serviços de Terceirização,PROJ-009,Serviço,Fornecedor MNO
+24/07/2023,20613.16,Compra de Veículos,PROJ-009,Material,Fornecedor JKL
+14/08/2023,18870.06,Serviços de Terceirização,PROJ-009,Material,Fornecedor 123
+01/09/2023,23668.0,Treinamento de Funcionários,PROJ-009,Serviço,Fornecedor HIJ
+02/10/2023,19690.19,Serviços de Transporte,PROJ-009,Serviço,Fornecedor ZAB
+26/11/2023,9951.86,Serviços de TI,PROJ-009,Material,Fornecedor XYZ
+08/12/2023,28154.74,Serviços de Segurança,PROJ-009,Material,Fornecedor YZA
+19/01/2024,32772.35,Serviços de Terceirização,PROJ-009,Material,Fornecedor BCD
+10/02/2024,20590.37,Treinamento de Funcionários,PROJ-009,Serviço,Fornecedor WXY
+04/03/2024,26178.93,Serviços de TI,PROJ-009,Serviço,Fornecedor CDE
+19/04/2024,12507.61,Compra de Veículos,PROJ-009,Material,Fornecedor WXY
+15/05/2024,24659.93,Serviços de Auditoria,PROJ-009,Serviço,Fornecedor 123
+17/06/2024,12483.19,Serviços de Transporte,PROJ-009,Material,Fornecedor PQR
+17/07/2024,8879.66,Compra de Equipamentos de Segurança,PROJ-009,Material,Fornecedor XYZ
+19/08/2024,25229.18,Serviços de Auditoria,PROJ-009,Serviço,Fornecedor KLM
+12/09/2024,11306.74,Serviços de Marketing,PROJ-009,Material,Fornecedor JKL
+02/10/2024,35576.45,Compra de Materiais de Construção,PROJ-009,Material,Fornecedor JKL
+17/11/2024,9755.31,Serviços de Transporte,PROJ-009,Material,Fornecedor 123
+15/12/2024,11007.58,Manutenção de Equipamentos,PROJ-009,Serviço,Fornecedor CDE
+06/01/2020,7742.67,Serviços de Segurança,PROJ-010,Serviço,Fornecedor XYZ
+05/02/2020,15280.84,Compra de Ferramentas,PROJ-010,Material,Fornecedor FGH
+04/03/2020,8359.76,Compra de Materiais de Construção,PROJ-010,Material,Fornecedor WXY
+15/04/2020,21950.13,Serviços de Segurança,PROJ-010,Material,Fornecedor PQR
+24/05/2020,10452.24,Aquisição de Software,PROJ-010,Serviço,Fornecedor STU
+17/06/2020,16379.61,Serviços de TI,PROJ-010,Material,Fornecedor JKL
+27/07/2020,34962.81,Compra de Móveis,PROJ-010,Serviço,Fornecedor ZAB
+16/08/2020,25165.46,Aquisição de Software,PROJ-010,Material,Fornecedor XYZ
+19/09/2020,11203.13,Compra de Equipamentos de Segurança,PROJ-010,Material,Fornecedor BCD
+21/10/2020,33018.41,Serviços de Transporte,PROJ-010,Material,Fornecedor ZAB
+07/11/2020,36821.53,Compra de Equipamentos de Segurança,PROJ-010,Material,Fornecedor ABC
+27/12/2020,37543.66,Aquisição de Software,PROJ-010,Material,Fornecedor CDE
+01/01/2021,25642.17,Serviços de Engenharia,PROJ-010,Serviço,Fornecedor EFG
+20/02/2021,34081.9,Compra de Móveis,PROJ-010,Serviço,Fornecedor CDE
+04/03/2021,32970.04,Serviços de Marketing,PROJ-010,Serviço,Fornecedor QRS
+10/04/2021,33346.28,Serviços de Segurança,PROJ-010,Material,Fornecedor VWX
+08/05/2021,14478.46,Compra de Ferramentas,PROJ-010,Material,Fornecedor HIJ
+09/06/2021,27492.75,Serviços de Terceirização,PROJ-010,Material,Fornecedor MNO
+26/07/2021,21060.17,Serviços de Consultoria,PROJ-010,Material,Fornecedor PQR
+04/08/2021,23216.33,Serviços Jurídicos,PROJ-010,Serviço,Fornecedor CDE
+21/09/2021,20420.87,Aquisição de Software,PROJ-010,Serviço,Fornecedor KLM
+11/10/2021,8000.65,Compra de Equipamentos de Segurança,PROJ-010,Serviço,Fornecedor CDE
+17/11/2021,9455.04,Serviços de Marketing,PROJ-010,Material,Fornecedor ZAB
+18/12/2021,17003.72,Compra de Equipamentos de Segurança,PROJ-010,Serviço,Fornecedor VWX
+01/01/2022,21932.57,Serviços de Segurança,PROJ-010,Serviço,Fornecedor HIJ
+21/02/2022,19667.27,Serviços de Limpeza,PROJ-010,Serviço,Fornecedor JKL
+03/03/2022,11461.42,Locação de Equipamentos,PROJ-010,Serviço,Fornecedor HIJ
+07/04/2022,29270.27,Serviços de TI,PROJ-010,Serviço,Fornecedor QRS
+11/05/2022,12020.11,Compra de Equipamentos de Segurança,PROJ-010,Material,Fornecedor VWX
+20/06/2022,9990.24,Compra de Equipamentos de Segurança,PROJ-010,Serviço,Fornecedor JKL
+16/07/2022,28278.24,Serviços de Engenharia,PROJ-010,Material,Fornecedor FGH
+13/08/2022,14385.99,Manutenção de Equipamentos,PROJ-010,Serviço,Fornecedor VWX
+15/09/2022,35642.59,Serviços Jurídicos,PROJ-010,Serviço,Fornecedor YZA
+23/10/2022,27839.28,Serviços de Transporte,PROJ-010,Material,Fornecedor CDE
+17/11/2022,16553.83,Serviços Jurídicos,PROJ-010,Serviço,Fornecedor XYZ
+13/12/2022,23219.66,Serviços de Segurança,PROJ-010,Material,Fornecedor MNO
+20/01/2023,8300.49,Compra de Ferramentas,PROJ-010,Serviço,Fornecedor YZA
+24/02/2023,22763.19,Serviços de TI,PROJ-010,Serviço,Fornecedor FGH
+21/03/2023,28167.39,Serviços de Consultoria,PROJ-010,Serviço,Fornecedor VWX
+21/04/2023,14571.56,Desenvolvimento de Sistemas,PROJ-010,Serviço,Fornecedor ZAB
+08/05/2023,27182.41,Serviços de Engenharia,PROJ-010,Serviço,Fornecedor PQR
+27/06/2023,25220.91,Serviços de Engenharia,PROJ-010,Material,Fornecedor EFG
+10/07/2023,24331.07,Compra de Equipamentos de Segurança,PROJ-010,Serviço,Fornecedor EFG
+24/08/2023,30135.66,Aquisição de Software,PROJ-010,Material,Fornecedor QRS
+19/09/2023,14950.05,Serviços de Transporte,PROJ-010,Material,Fornecedor VWX
+28/10/2023,15086.2,Aquisição de Software,PROJ-010,Serviço,Fornecedor HIJ
+25/11/2023,7287.13,Serviços de Transporte,PROJ-010,Serviço,Fornecedor STU
+11/12/2023,18015.72,Serviços de Auditoria,PROJ-010,Serviço,Fornecedor 123
+25/01/2024,38425.25,Compra de Equipamentos de Segurança,PROJ-010,Serviço,Fornecedor YZA
+13/02/2024,14776.44,Serviços de Limpeza,PROJ-010,Material,Fornecedor FGH
+01/03/2024,30170.42,Compra de Materiais de Construção,PROJ-010,Material,Fornecedor QRS
+08/04/2024,6964.18,Serviços Jurídicos,PROJ-010,Material,Fornecedor VWX
+13/05/2024,32744.45,Serviços de Engenharia,PROJ-010,Material,Fornecedor MNO
+06/06/2024,13761.5,Treinamento de Funcionários,PROJ-010,Material,Fornecedor TUV
+06/07/2024,12639.26,Manutenção de Equipamentos,PROJ-010,Serviço,Fornecedor MNO
+24/08/2024,9113.12,Serviços de Marketing,PROJ-010,Material,Fornecedor TUV
+10/09/2024,39183.27,Serviços de Engenharia,PROJ-010,Serviço,Fornecedor JKL
+19/10/2024,14466.26,Compra de Materiais de Construção,PROJ-010,Serviço,Fornecedor XYZ
+23/11/2024,23158.73,Compra de Móveis,PROJ-010,Serviço,Fornecedor VWX
+17/12/2024,37038.05,Compra de Materiais de Construção,PROJ-010,Material,Fornecedor MNO
