@@ -4,6 +4,8 @@
 
 Este projeto tem como objetivo apresentar uma introdução à análise de dados de Recursos Humanos (RH) utilizando o Power BI, com foco na geração de insights estratégicos para gestão de pessoas.
 
+---
+
 ## 📌 Sobre o Projeto
 
 Durante o desenvolvimento, foram explorados dados fictícios de funcionários, permitindo simular cenários reais de uma empresa.
@@ -17,35 +19,47 @@ Além da construção de dashboards, o projeto também aborda recursos important
 
 ---
 
-📊 Problemas de Negócio
+## 📊 Problemas de Negócio
 
 O dashboard foi desenvolvido para responder às seguintes perguntas:
 
-👥 Total de funcionários
-→ Quantidade atual de colaboradores na empresa
-⏳ Tempo médio de experiência
-→ Média de anos de experiência dos funcionários
-🚻 Distribuição por gênero
-→ Total e percentual de funcionários masculinos e femininos
-💰 Média salarial mensal
-→ Valor médio dos salários dos colaboradores
-🧑‍💼 Funcionários por função
-→ Quantidade de funcionários por cargo
-⏱️ Disponibilidade para hora extra
-→ Percentual de funcionários disponíveis para horas extras
-📊 Nível de envolvimento no trabalho
-→ Classificação dos funcionários em quatro categorias:
-Ruim
-Baixo
-Médio
-Alto
+* 👥 **Total de funcionários**
+  → Quantidade atual de colaboradores na empresa
 
-💡 Principais Insights (Exemplo)
-Distribuição equilibrada (ou não) entre gêneros
-Identificação de funções com maior concentração de colaboradores
-Análise de engajamento dos funcionários
-Avaliação da média salarial da empresa
-Identificação de possíveis candidatos à promoção
+* ⏳ **Tempo médio de experiência**
+  → Média de anos de experiência dos funcionários
+
+* 🚻 **Distribuição por gênero**
+  → Total e percentual de funcionários masculinos e femininos
+
+* 💰 **Média salarial mensal**
+  → Valor médio dos salários dos colaboradores
+
+* 🧑‍💼 **Funcionários por função**
+  → Quantidade de funcionários por cargo
+
+* ⏱️ **Disponibilidade para hora extra**
+  → Percentual de funcionários disponíveis para horas extras
+
+* 📊 **Nível de envolvimento no trabalho**
+  → Classificação dos funcionários em quatro categorias:
+
+  * Ruim
+  * Baixo
+  * Médio
+  * Alto
+
+---
+
+## 💡 Principais Insights (Exemplo)
+
+* Análise da distribuição entre gêneros
+* Identificação de funções com maior concentração de colaboradores
+* Avaliação do nível de engajamento dos funcionários
+* Análise da média salarial da empresa
+* Identificação de possíveis candidatos à promoção
+
+---
 
 ## 🧠 Medidas DAX e Aplicações
 
@@ -158,6 +172,8 @@ O projeto entrega uma visão completa sobre:
 * Potencial de crescimento interno
 
 Permitindo que gestores tomem decisões mais assertivas baseadas em dados.
+
+---
 
 ## 🛠️ Ferramentas Utilizadas
 
